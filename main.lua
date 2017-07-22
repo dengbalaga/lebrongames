@@ -1,5 +1,5 @@
 -- Corona SDK Project
--- by Dennis Balaga
+-- by Dennis D Balaga
 
 -- display.setStatusBar(display.HiddenStatusBar)
 
